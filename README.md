@@ -2,28 +2,28 @@
 
 ![Screenshot](screenshot.gif)
 
-Basic CRUD (Create, Read, Update, Delete) [Rust] application with [Yew Framework] that uses WebAssembly :heart_eyes:.
-I'm still learning rust, so the app has some minor issues, but it general it works to show you an approach of Yew and Rust.
+CRUD Basico (Crear, Listar, Actualizar, Eliminar) Aplicación en [Rust] con [Yew Framework] que usa WebAssembly :heart_eyes:.
+Continuamos aprendiendo rust, entonces se pueden encontrar algunos errores, pero en general funciona y se pudo hacer uso de Yew y Rust.
 
 [Rust]: https://www.rust-lang.org
 [Yew Framework]: https://github.com/yewstack/yew
 
-## Current Features
+## Caracteristicas de la Aplicación
 
-* Create, update and delete items
+* Crear, actualizar and eliminar items
 * Local Storage
 * Validations
-* Modal Window
+* Ventanas Modal
 
-### Future Features
+### Caracteristicas por Implementar
 
-* Confirm dialog
-* Filters
-* Pagination
+* Ventanas de confirmación
+* Filtros
+* Paginación
 
-## Getting Started
+## Como ejecutar la Aplicación
 
-You need to [install Rust] and [Trunk] then:
+necesitas [Instalar Rust] y [Trunk] despues:
 
 ```bash
 $ git clone https://github.com/JulianVega03/rust-crud
